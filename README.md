@@ -1,10 +1,10 @@
 # Amazon-Global-Dashboard
 ![Screenshot (314)](https://github.com/pavan-70/Amazon-Global-Dashboard/assets/143864625/d8ec2a67-f023-48f9-8773-f2872281cada)
 
-<b>#Project Overview</b><br>
+#<b>Project Overview</b><br>
    The Amazon Global Dashboard developed using Power BI offers a comprehensive analysis of sales data across various dimensions to provide insights into sales projections, product units, key performance indicators (KPIs), sales by segment, market, region, profit by customer name, and top/bottom performing products. This project aims to showcase proficiency in data visualization, analytics, and business intelligence using Power BI
 
-<b>#Project Details:</b>​<br>
+#<b>Project Details:</b>​<br>
 Thorough Analysis: I conducted a comprehensive examination of net sales performance, analyzing data across multiple dimensions, including year, customer, market, product, growth, and division. By diving deep into these various facets of sales data, I gained a holistic understanding of Amazon's global sales landscape.
 
 <b>• Target Alignment:</b> Ensured alignment with strategic objectives by closely scrutinizing market performance against predefined targets. By comparing actual sales figures with target metrics, I identified areas of overperformance and underperformance, allowing for targeted adjustments to sales strategies and resource allocation.
